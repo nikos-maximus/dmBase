@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"nskiadas"
+	],
+	"copyright": "Copyright © 2022, nskiadas",
+	"dependencies": {
+		"bindbc-sdl": "~>1.2.1"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dm"
+}
